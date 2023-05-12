@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+span{
+    padding: 10px;
+   font-size: 70px;
+   color:rgb(140, 140, 169);
+
+   
+}
+
+
+
+#container{
+      margin-top: 250px;
+      display: flex;
+      justify-content: center;
+      align-items:center;
+    
+}
+
+
+
+
+
+
